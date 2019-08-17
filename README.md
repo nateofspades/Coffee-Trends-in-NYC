@@ -1,13 +1,13 @@
 # Trend Simulator for Coffee Shops in NYC
 
 ### Code
-**Trend Simulator - Retrieving Yelp Data (notebook):** <br />
+**Trend Simulator - Retrieving Yelp Data:** *the output of this file is shops.csv* <br />
 https://nbviewer.jupyter.org/github/nateofspades/Trend-Simulator-for-Coffee-Shops-in-NYC/blob/master/Trend%20Simulator%20-%20Retrieving%20Yelp%20Data.ipynb
 
-**Trend Simulator - EDA (notebook):** <br />
+**Trend Simulator - EDA:** *this file processes and analyzes shops.csv* <br />
 xxxxxxxxxxxxxxxxxxx(To be filled in when the file has been uploaded)xxxxxxxxxxxxxxxx
 
-**Trend Simulator - Simulation:** <br />
+**Trend Simulator - Simulation:** *this file uses the processed shops.csv and insights from EDA to build the simulator* <br />
 xxxxxxxxxxxxxxxxxxx(To be filled in when the file has been uploaded)xxxxxxxxxxxxxxxx
 
 ### Introduction
@@ -17,5 +17,5 @@ Who doesn't love maple syrup? Most people, actually, because they have never had
 I am taking a graph-theoretical and probabilistic approach to building a trend simulator for coffee shops in NYC. The underlying idea is that when a coffee shop adopts a trend (such as adding maple syrup to their coffee) it generates a theoretical influence on nearby competitors to do the same. 
 
 ### Data
-I have collected data on nearly 6000 coffee shops in NYC using the Yelp Fusion API, which can be found in shops.csv. I have also inspected the datasets from the Yelp Dataset Challenge, particularly the reviews dataset, which has over 6.7 million rows. While this dataset offers no information about NYC, it does mention maple syrup... a bit: 14638 reviews mention 'maple', 23 reviews mention 'maple coffee' and 5 reviews mention 'maple syrup coffee'. These are small numbers in relation to the size of the dataset. What is encouraging, though, is that 21 of the 23 'maple coffee' reviews were positive, and the remaining 2 seemed to either be positive or indifferent. There were no negative reviews!
+I have collected data on nearly 6000 coffee shops in NYC using the Yelp Fusion API, and the can be found in shops.csv. I have also inspected the datasets from the Yelp Dataset Challenge, particularly the reviews dataset, which has over 6.7 million rows. While this dataset offers no information about NYC, it does mention maple syrup... a bit: 14638 reviews mention 'maple', 23 reviews mention 'maple coffee' and 5 reviews mention 'maple syrup coffee'. These are small numbers in relation to the size of the dataset. What is encouraging, though, is that 21 of the 23 'maple coffee' reviews were positive, and the remaining 2 seemed to either be positive or indifferent. There were no negative reviews!
 
