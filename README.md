@@ -10,7 +10,7 @@ https://nbviewer.jupyter.org/github/nateofspades/Trend-Simulator-for-Coffee-Shop
 xxxxxxxxxxxxxxxxxxx(To be filled in when the file has been uploaded)xxxxxxxxxxxxxxxx
 
 **Trend Simulator - Simulation** <br />
-(This file uses the processed shops.csv and insights from EDA to build the simulator.) <br /> 
+(This file uses the processed shops.csv file and insights from EDA to build the simulator.) <br /> 
 xxxxxxxxxxxxxxxxxxx(To be filled in when the file has been uploaded)xxxxxxxxxxxxxxxx
 
 ### Introduction
