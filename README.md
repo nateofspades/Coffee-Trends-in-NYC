@@ -1,13 +1,13 @@
 # Trend Simulator for Coffee Shops in NYC
 
 ### Code
-Trend Simulator - Retrieving Yelp Data (notebook): <br />
+**Trend Simulator - Retrieving Yelp Data (notebook):** <br />
 https://nbviewer.jupyter.org/github/nateofspades/Trend-Simulator-for-Coffee-Shops-in-NYC/blob/master/Trend%20Simulator%20-%20Retrieving%20Yelp%20Data.ipynb
 
-Trend Simulator - EDA (notebook): <br />
+**Trend Simulator - EDA (notebook):** <br />
 xxxxxxxxxxxxxxxxxxx(To be filled in when the file has been uploaded)xxxxxxxxxxxxxxxx
 
-Trend Simulator - Simulation: <br />
+**Trend Simulator - Simulation:** <br />
 xxxxxxxxxxxxxxxxxxx(To be filled in when the file has been uploaded)xxxxxxxxxxxxxxxx
 
 ### Introduction
@@ -17,5 +17,5 @@ Who doesn't love maple syrup? Most people, actually, because they have never had
 I am taking a graph-theoretical and probabilistic approach to building a trend simulator for coffee shops in NYC. The underlying idea is that when a coffee shop adopts a trend (such as adding maple syrup to their coffee) it generates a theoretical influence on nearby competitors to do the same. 
 
 ### Data
-I have collected data on over 4000 coffee shops in NYC using the Yelp Fusion API, which can be found in shops.csv. Th I have also inspected the datasets from the Yelp Dataset Challenge, particularly the reviews dataset, which has over 6.7 million rows. While this dataset offers no information about NYC, it does mention maple syrup... a bit: 14638 reviews mention 'maple', 24 reviews mention 'maple coffee', 5 reviews mention 'maple syrup coffee'. These are small numbers in relation to the size of the dataset. However, the 
+I have collected data on over 4000 coffee shops in NYC using the Yelp Fusion API, which can be found in shops.csv. I have also inspected the datasets from the Yelp Dataset Challenge, particularly the reviews dataset, which has over 6.7 million rows. While this dataset offers no information about NYC, it does mention maple syrup... a bit: 14638 reviews mention 'maple', 24 reviews mention 'maple coffee', 5 reviews mention 'maple syrup coffee'. These are small numbers in relation to the size of the dataset. However, the 
 
