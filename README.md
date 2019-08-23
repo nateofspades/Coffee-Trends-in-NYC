@@ -6,8 +6,8 @@
 https://nbviewer.jupyter.org/github/nateofspades/Trend-Simulator-for-Coffee-Shops-in-NYC/blob/master/Trend%20Simulator%20-%20Retrieving%20Yelp%20Data.ipynb
 
 **Trend Simulator - EDA** <br />
-(This file processes and analyzes shops.csv.) <br />
-xxxxxxxxxxxxxxxxxxx(To be filled in when the file has been uploaded)xxxxxxxxxxxxxxxx
+(This file processes and analyzes shops.csv; still in progress.) <br />
+https://nbviewer.jupyter.org/github/nateofspades/Trend-Simulator-for-Coffee-Shops-in-NYC/blob/master/Trend%20Simulator%20-%20EDA.ipynb
 
 **Trend Simulator - Simulation** <br />
 (This file uses the processed shops.csv file and insights from EDA to build the simulator.) <br /> 
