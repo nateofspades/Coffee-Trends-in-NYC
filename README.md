@@ -1,7 +1,7 @@
 # Trend Simulator for Coffee Shops in NYC
 
 ### Code
-**Trend Simulator - Retrieving Yelp Data** <br />
+**Trend Simulator - Retrieving Data** <br />
 (The output of this file is shops.csv.) <br />
 https://nbviewer.jupyter.org/github/nateofspades/Trend-Simulator-for-Coffee-Shops-in-NYC/blob/master/Trend%20Simulator%20-%20Retrieving%20Yelp%20Data.ipynb
 
