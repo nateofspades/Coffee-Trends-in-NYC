@@ -1,7 +1,7 @@
 # Coffee Trends in NYC
 
 A reader-friendly writeup for this project that discusses the EDA and simulator as well as the motivation and process behind it all can be found here:
-
+https://towardsdatascience.com/coffee-trends-in-nyc-b6f44a516e96
 
 ### Code
 To view the code for the EDA or Simulator it is better to go through the nbviewer links below rather than clicking the .ipynb files above. The nbviewer links make the notebooks easier to read.
