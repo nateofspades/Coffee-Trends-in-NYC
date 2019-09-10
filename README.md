@@ -7,7 +7,7 @@ A reader-friendly writeup for this project that discusses the EDA and simulator 
 To view the code for the EDA or Simulator it is better to go through the nbviewer links below rather than clicking the .ipynb files above. The nbviewer links make the notebooks easier to read.
 
 **NYC Coffee Shops - EDA** <br />
-(This motebook processes and analyzes the shops initially retrieved by the API. After processing the data it outputs the dataset used for the simulator.) <br />
+(This notebook processes and analyzes the shops initially retrieved by the API. After processing the data it outputs the dataset used for the simulator.) <br />
 https://nbviewer.jupyter.org/github/nateofspades/Coffee-Trends-in-NYC/blob/master/NYC%20Coffee%20Shops%20-%20EDA.ipynb
 
 **NYC Coffee Shops - Simulator (version 1)** <br />
