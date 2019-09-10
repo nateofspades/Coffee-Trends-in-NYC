@@ -1,6 +1,6 @@
 # Coffee Trends in NYC
 
-A reader-friendly writeup for this project that discusses the EDA and simulator as well as the motivation and process behind it all can be found here:
+A reader-friendly writeup for this project that discusses the EDA and simulator as well as the motivation and process behind it all can be found here: <br />
 https://towardsdatascience.com/coffee-trends-in-nyc-b6f44a516e96
 
 ### Code
